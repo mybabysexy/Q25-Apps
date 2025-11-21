@@ -31,8 +31,9 @@ Consider joining the Q25 [Discord Server](https://discord.com/invite/D2P7UqFdXz)
 | App Name | Short Description | Author |
 |----------|-------------------|-------|
 | [Google Camera Go](https://amxd.de/GCam.apk) |  <p>Google Camera Port, not specifically built for Q25 but works very well </p>| Google |
-| [Q25 Resolution Changer](https://github.com/mybabysexy/q25-res-changer) |  <p>Software for emulating resolutions on the Q25  <img src="https://img.shields.io/badge/Root%20Required-FF0000" alt="Root Required" /> </p>| mybabysexy |
-| [Q25 Double Tap Wake Module](https://github.com/mybabysexy/q25-double-tap-wake-module) |  <p>Magisk module that enables double-tap-to-wake (DT2W)  <img src="https://img.shields.io/badge/Root%20Required-FF0000" alt="Root Required" /> </p>| mybabysexy |
+| [Q25 Resolution Changer](https://github.com/mybabysexy/q25-res-changer) |  <p>Software for emulating resolutions on the Q25 <img src="https://img.shields.io/badge/Shizuku%20Supported-4254B6" alt="Shizuku Supported" /> or <img src="https://img.shields.io/badge/Root%20Required-FF0000" alt="Root Required" /></p>| mybabysexy |
+| [Q25 LED Customizer](https://ko-fi.com/s/83fcdbc49f) |  <p>Software for customizing LED light for different apps notification on the Q25  <img src="https://img.shields.io/badge/Root%20Required-FF0000" alt="Root Required" /> </p>| mybabysexy |
+| [Q25 Keyboard App](https://ko-fi.com/s/0d833f1e27) |  <p>A custom-designed keyboard for the Q25</p>| mybabysexy |
 
 <!--
 ## Apps specifically tested to work with Q25
